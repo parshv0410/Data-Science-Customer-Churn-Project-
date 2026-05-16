@@ -100,3 +100,8 @@ Through this project, I learned:
 # Internship Project
 
 This project was completed as part of the Data Science Internship Program.
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/18a5768f-3054-4c7e-b057-7594c2d4948d" />
+<img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/5bbe7448-1a93-402b-94af-edf04fd78dc7" />
+<img width="640" height="480" alt="Figure_3" src="https://github.com/user-attachments/assets/5b87064c-b147-4581-8f9c-d762732830bd" />
+
+
